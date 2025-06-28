@@ -1,7 +1,9 @@
 ## Hi there 👋
 Mes technologies..
 
-            <i class="devicon-nodejs-plain-wordmark"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+          
           
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
