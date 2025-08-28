@@ -1,4 +1,9 @@
 ## Hi there 👋
+Mes hobbies:
+<P>
+   <img src="https://github.com/codewars/branding/blob/master/light-text-logo.svg" alt="VSCode" width="60"/> 
+</P>
+
 Mes technologies..                  
 <P>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60"/> 
