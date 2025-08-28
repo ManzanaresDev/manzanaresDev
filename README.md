@@ -1,7 +1,7 @@
 ## Hi there 👋
 Mes hobbies:
 <P>
-   <img src="https://github.com/codewars/branding/blob/master/light-text-logo.svg" alt="VSCode" width="60"/> 
+   <img src="https://github.com/codewars/branding/blob/master/light-text-logo.svg" alt="VSCode" width="120"/> 
 </P>
 
 Mes technologies..                  
