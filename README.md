@@ -3,6 +3,10 @@ Mes hobbies:
 <P>
    <img src="https://github.com/codewars/branding/blob/master/light-text-logo.svg" alt="VSCode" width="120"/> 
 </P>
+<p>
+   Codewars est une plateforme d’entraînement au code qui propose des défis appelés kata, classés par niveaux de difficulté. Elle permet d’améliorer ses compétences en programmation, de découvrir de nouvelles approches algorithmiques et de comparer ses solutions avec celles d’autres développeurs du monde entier.
+</p>
+</p>
 
 Mes technologies..                  
 <P>
