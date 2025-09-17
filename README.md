@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 Mes hobbies:
+
 <P>
    <img src="https://github.com/codewars/branding/blob/master/light-text-logo.svg" alt="VSCode" width="120"/> 
 </P>
@@ -8,7 +10,8 @@ Mes hobbies:
 </p>
 </p>
 
-Mes technologies..                  
+Mes technologies..
+
 <P>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60"/> 
 </P>
@@ -28,6 +31,7 @@ Mes technologies..
 </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"  />
   <img src="maven.jpg" width="60"  />
+  <img src="javaTest.jpg" width="60"  />
 <p>
    
 </p>  
@@ -52,11 +56,8 @@ Mes technologies..
           
           
           
-          
-          
 
-          
-          
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -65,4 +66,4 @@ Mes technologies..
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
