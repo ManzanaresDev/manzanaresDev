@@ -34,8 +34,8 @@ Mes technologies..
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
-  <img src="maven.jpg" width="60"/>
-  <img src="javaTest.jpg" width="60"/>
+  <img src="maven.jpg" width="80"/>
+  <img src="javaTest.jpg" width="120"/>
 </div>
    
 </p>  
@@ -55,7 +55,6 @@ Mes technologies..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" />          
 </P>
                    
-          
           
 
 
