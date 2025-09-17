@@ -31,11 +31,12 @@ Mes technologies..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" />
-</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"  />
-  <img src="maven.jpg" width="60"  />
-  <img src="javaTest.jpg" width="60"  />
-<p>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
+  <img src="maven.jpg" width="60"/>
+  <img src="javaTest.jpg" width="60"/>
+</div>
    
 </p>  
 <p>
@@ -54,7 +55,6 @@ Mes technologies..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" />          
 </P>
                    
-          
           
           
 
