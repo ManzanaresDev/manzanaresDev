@@ -21,11 +21,18 @@ Mes technologies..
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" /> 
 </p>
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" />
   <!-- <img src="https://dummyimage.com/1x45/ffffff/ffffff.png" alt="" />  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="150" alt="Tailwind CSS" />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://dummyimage.com/1x50/ffffff/ffffff.png" alt="" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" />
+  <br>
+  <img src="https://dummyimage.com/1x50/ffffff/ffffff.png" alt="" />
+</p>
 
  <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" />
