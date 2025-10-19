@@ -23,7 +23,7 @@ Mes technologies..
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" />
-  <img src="https://dummyimage.com/1x45/ffffff/ffffff.png" alt="" /> 
+  <!-- <img src="https://dummyimage.com/1x45/ffffff/ffffff.png" alt="" />  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="150" alt="Tailwind CSS" />
 </p>
 
